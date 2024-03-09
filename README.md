@@ -8,7 +8,7 @@ This is a simple yet effective command-line interface (CLI) application built in
 2. **Clone the Repository:** Use Git to clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/NotAnonymousUser/cli-bmi-calc.git
+   git clone https://github.com/NotAnonymousUser/BMI-Calculator-CLI.git
    ```
 
    
